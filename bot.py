@@ -2,7 +2,9 @@ from http import client
 import discord
 import random
 
-TOKEN ="OTQxNjY1ODc2MTg3NDIyNzQw.YgZQsA.zaZUFfZ9r5LIgqNNJnUg7wK28lQ"
+//insert your own token 
+
+TOKEN =""
 
 client = discord.Client()
 
